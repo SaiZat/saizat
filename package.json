@@ -1,0 +1,45 @@
+{
+	"name": "Linkalink",
+	"version": "1.0.0",
+	"author": "Linkalink Inc.",
+	"license": "Linkalink Inc.",
+	"devDependencies": {
+		"browser-sync": "^2.26.7",
+		"coffeescript": "^2.5.1",
+		"del": "^5.1.0",
+		"gulp": "^4.0.2",
+		"gulp-autoprefixer": "^7.0.1",
+		"gulp-changed": "^4.0.2",
+		"gulp-coffee": "^3.0.3",
+		"gulp-concat": "^2.6.1",
+		"gulp-connect-php": "^1.0.3",
+		"gulp-csscomb": "^3.1.0",
+		"gulp-csslint": "^1.0.1",
+		"gulp-cssmin": "^0.2.0",
+		"gulp-imagemin": "^7.1.0",
+		"gulp-merge-media-queries": "^0.2.1",
+		"gulp-minify-html": "^1.0.6",
+		"gulp-notify": "^3.2.0",
+		"gulp-plumber": "^1.2.1",
+		"gulp-rename": "^2.0.0",
+		"gulp-sass": "^4.1.0",
+		"gulp-uglify": "^3.0.2",
+		"gulp-usemin": "^0.3.30",
+		"imagemin-jpegoptim": "^7.0.0",
+		"imagemin-jpegtran": "^7.0.0",
+		"imagemin-mozjpeg": "^9.0.0",
+		"imagemin-pngquant": "^9.0.0",
+		"uglify-save-license": "^0.4.1"
+	},
+	"dependencies": {
+		"@babel/core": "^7.12.10",
+		"@babel/preset-env": "^7.12.11",
+		"gulp-babel": "^8.0.0"
+	},
+	"browserslist": [
+		"last 2 versions",
+		"Explorer 11",
+		"iOS 9.0",
+		"Android 4.1"
+	]
+}
